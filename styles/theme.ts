@@ -19,11 +19,11 @@ export const theme = extendTheme({
         }
     },
     fontSizes: {
-        '6xl': '54px'
+        "2xl": "90rem"
     },
     fonts: {
-        heading: 'Roboto',
-        body: 'Roboto',
+        heading: 'Poppins',
+        body: 'Poppins',
     },
     radii: {
         sm: '5px',
